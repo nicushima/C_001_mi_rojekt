@@ -1,1 +1,0 @@
-﻿Console.WriteLine("первый тест");
